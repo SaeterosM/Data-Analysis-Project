@@ -12,13 +12,13 @@ I utilized a consumer behavior dataset to analyze trends and gather insights to 
 - Find the average purchase amount based on age range
 - Based on age range find purchase frequency
 - Find states(Location) average Purchase
-- Review rating average of each state(location)
+- Review the average ratings for each state (location)
 -  Which season makes the most Revenue
 
 ## Process 
-- Analyze and ensure data on excel sheet is organized and sorted to corresponding data type
-- Insert excel data into SQL to extract,create and calcuate new information
-- Use new created information tables into tableu sheets to create a dashboard
+- Analyze and ensure the data in the Excel sheet is organized and sorted according to the corresponding data type.
+- Import the Excel data into SQL to extract, create, and calculate new information.
+- Use the newly created information tables in Tableau to build a dashboard
 
 ## Dashboard 
 - <a href="https://public.tableau.com/app/profile/marilyn.saeteros/viz/ConsumerBehaviorAnalysis_17429232998040/Dashboard1" > Dashboard Project 1 </a>
