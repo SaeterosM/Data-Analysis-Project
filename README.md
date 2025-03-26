@@ -1,4 +1,4 @@
-# SQL-Tableau-Project1
+# Consumer Behavior Analysis
 
 ## Project Overview
 I used a consumer behavior dataset in SQL to extract and organize data into Excel, which was then used to create a dashboard in Tableau. The process, including data cleaning and visualization, took approximately 5 hours.
@@ -21,4 +21,4 @@ I utilized a consumer behavior dataset to analyze trends and gather insights to 
 - Use the newly created information tables in Tableau to build a dashboard
 
 ## Dashboard 
-- <a href="https://public.tableau.com/app/profile/marilyn.saeteros/viz/ConsumerBehaviorAnalysis_17429232998040/Dashboard1" > Dashboard Project 1 </a>
+- <a href="https://public.tableau.com/app/profile/marilyn.saeteros/viz/ConsumerBehaviorAnalysis_17429232998040/Dashboard1" > Consumer Behavior Analysis Dashboard </a>
